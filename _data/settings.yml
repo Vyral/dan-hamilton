@@ -5,6 +5,8 @@ show_custom_links: true
 custom_links:
   - title: Testimonials
     url: /testimonials
+  - title: Trusted Vendors
+    url: /vendors
 show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:
